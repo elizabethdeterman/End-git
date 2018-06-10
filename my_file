@@ -5,5 +5,5 @@ print('Hi from another Dev")
 
 
 def hi_there():
-	print("hi")
+	print("updatded pythong function merge conflict hi")
 
